@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Data Science & ML projects<br>🎓 Computer Engineering Student | 2027<br>🌱 Learning ML, AWS & Full-Stack Development<br>💻 Python | SQL | C++ | Power BI<br>☁️ Exploring Cloud & DevOps<br>🚀 Building real-world data-driven projects<br>🤝 Open to collaboration & learning<br>⚡ Turning data into useful insights
+🔭 Working on Data Science & ML projects<br>🎓 Computer Engineering Student | 2027<br>🌱 Learning ML, AWS & Artificial Intelligence<br>💻 Python | SQL | C++ | Power BI<br>☁️ Exploring Cloud & DevOps<br>🚀 Building real-world data-driven projects<br>🤝 Open to collaboration & learning<br>⚡ Turning data into useful insights
 
 
 ## 🌐 Socials:
